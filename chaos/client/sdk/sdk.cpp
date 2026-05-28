@@ -1,0 +1,1 @@
+// was going to do the functions in here, and just keep the definitions in the sdk.hpp but decided not to.

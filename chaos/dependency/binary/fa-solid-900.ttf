@@ -1,0 +1,4 @@
+// This is a placeholder for FontAwesome font
+// In a real implementation, you would download fa-solid-900.ttf from FontAwesome
+// and place it in the fonts directory
+// For now, we'll use a built-in font as fallback
