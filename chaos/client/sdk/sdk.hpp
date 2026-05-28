@@ -663,6 +663,7 @@ namespace sdk
 	public:
 		using u_object::u_object;
 
+        // update this with the latest UWorld Decryption from capware!!
 		static auto get_frontend( ) -> u_world *
 		{
 			const auto base = device->m_base;
